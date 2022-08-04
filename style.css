@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+/* HomePAge */
+h3{
+  
+  font-family: 'Indie Flower', cursive; 
+  font-size: 20px; 
+  text-align: center;
+  font-weight: bolder;
+  
+}
+
+
+.abcd{
+  display:flex;
+  justify-content:space-around;
+}
+
+
+.homepage{
+  
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+    padding: 40px;
+    top: 25px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+  
+}
+
+.caption{
+  margin-top:0px;
+}
+
+/* Story1 page */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.all123{
+  text-align:center;
+  font-family:Quicksand,cursive;
+}
+.home_front123{
+  background-color:#edfeff;
+  padding:10px;
+  font-family:'Raleway',cursive;
+}
+.titlwww{
+  padding:10px;
+  font-family:'Raleway',cursive;
+}
+.pagetwo123{
+  padding:30px;
+  background-color:#e4eff2;
+}
+.pic123{
+  background-color:white;
+  padding:20px;
+  margin:10px;
+}
+.pagethree123{
+  padding:40px;
+  background-color:#edfeff;
+}
+.pagefour123{
+  padding:40px;
+  background-color:#e4eff2;
+}
+.pagefive123{
+  padding:40px;
+  background-color:#edfeff;
+}
+.pageseven123{
+  padding:40px;
+  background-color:#edfeff;
+}
+.pagesix123{
+  padding:40px;
+  background-color:#e4eff2;
+}
+.pageeight123{
+  padding:40px;
+  background-color:#e4eff2;
+}
+.pic2123{
+  border:#c1d8de inset 5px;
+  padding:20px;
+  margin:10px;
+}
+.back123{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.forth123{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.home123{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.back{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.forth{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.home{
+  padding:5px;
+  padding-left:10px;
+  padding-right:10px;
+  font-size:40px;
+  border:inset 5px #f5f7f7;
+  background-color:#f0fafa;
+}
+.back_forth123{
+  display:flex;
+  justify-content:space-between;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:20px;
+  background-color:#f0f2f2;
+  padding-bottom:10px;
+}
+.back_forth{
+  display:flex;
+  justify-content:space-between;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:20px;
+  background-color:#f0f2f2;
+  padding-bottom:10px;
+}
+
+/* Story2 page */
+.story2{
+  text-align:center;
+  font-size: 20px;
+  font-family: 'Indie Flower', cursive;   
+  font-weight: bolder;
+}
+
+.title{
+  font-size:50px;
+}
+
+#page1{
+  padding:100px;
+  background-color: #D1D4D2
+}
+
+#page2, #page3, #page6{
+  display:flex;
+}
+
+.infopage{
+  padding:50px;
+}
+
